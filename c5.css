@@ -1,0 +1,35 @@
+body {   margin: 0px;   padding: 0px; 
+    background-color: #6d2020; 
+  } 
+  @media (max-width: 1024px) { 
+    body { 
+      background-color: #5f3626; 
+    } 
+  } 
+  @media (max-width: 768px) {   body { 
+      background-color: #3341ff; 
+    } 
+  } 
+  @media (max-width: 480px) { 
+    body { 
+      background-color: #5687e0; 
+    } 
+  } 
+  @media (max-width: 320px) { 
+    body { 
+      background-color: #82a79f; 
+    } 
+  } 
+  * {
+    margin: 0px; padding: 0px;
+    } section {   float: right;   width: 100%; 
+     padding-left: 260px;  margin-left: -240px; 
+      box-sizing: border-box; 
+    } 
+    section > div {   padding: 20px; 
+      background-color: #999999; 
+    } aside {   float: left;   width: 240px;   padding: 20px;   background-color: #CCCCCC;   box-sizing: border-box; } 
+    P á g i n a
+    .recuperar {   clear: both; 
+    } 
+    
